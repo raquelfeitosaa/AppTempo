@@ -1,5 +1,5 @@
 # 🌤️ App de Previsão do Tempo
-Este é um projeto simples de aplicativo de previsão do tempo desenvolvido com JavaScript, HTML e CSS. O app permite que o usuário pesquise uma cidade e visualize informações climáticas em tempo real, como temperatura, condição atual e sensação térmica.
+Este é um projeto simples de aplicativo de previsão do tempo desenvolvido com JavaScript, HTML e CSS. O app permite que o usuário pesquise uma cidade e visualize informações climáticas em tempo real, como temperatura, condição atual e temperatura min e max.
 
 ## 🚀 Funcionalidades
 
