@@ -21,7 +21,7 @@ CSS3
 API https://openweathermap.org/
 
 ## 📦 Como usar
-Copie e use a url = https://raquell2.github.io/AppTempo/
+Copie e use a url = https://raquelfeitosaa.github.io/AppTempo/
 Digite o nome de uma cidade para ver a previsão do tempo.
 
 📌 Observações
